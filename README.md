@@ -21,12 +21,17 @@ In the world of data engineering, the journey from data retrieval to insightful 
 
 ## Dataflow Job for BigQuery
 - The core of our pipeline lies in the Dataflow job. Triggered by the Cloud Function, this job orchestrates the transfer of data from the CSV file in GCS to BigQuery. We’ll meticulously configure the job settings to ensure optimal performance and accurate data ingestion into BigQuery.
+  
+<img width="1189" alt="Data Flow" src="https://github.com/user-attachments/assets/5013c1b1-5475-450f-87cc-d480651e7ad0">
 
 ## Workflow Orchestration with Apache Airflow
 We utilized Apache Airflow to streamline and manage our data workflows. Airflow's robust DAGs enable us to define, schedule, and monitor complex workflows, ensuring each step of our pipeline runs reliably and efficiently.
 
+<img width="1189" alt="Data Flow" src="https://github.com/user-attachments/assets/c416b533-6e81-4d81-83c1-6b1339431bde">
+
 ## Looker Dashboard Creation
 
 Finally, we’ll explore the potential of BigQuery as a data source for Looker Studio. Configuring Looker to connect with BigQuery, we’ll create a visually compelling dashboard. This dashboard will serve as the visualization hub, enabling insightful analysis based on the data loaded from our cricket statistics pipeline.
+
 <img width="1205" alt="Screenshot 2024-07-25 at 4 58 29 PM" src="https://github.com/user-attachments/assets/1cd9ffd9-6c04-4610-906e-bbe21e9e8e4a">
 
