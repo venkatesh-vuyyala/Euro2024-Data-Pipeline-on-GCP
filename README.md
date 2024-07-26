@@ -27,7 +27,8 @@ In the world of data engineering, the journey from data retrieval to insightful 
 ## Workflow Orchestration with Apache Airflow
 We utilized Apache Airflow to streamline and manage our data workflows. Airflow's robust DAGs enable us to define, schedule, and monitor complex workflows, ensuring each step of our pipeline runs reliably and efficiently.
 
-<img width="1189" alt="Data Flow" src="https://github.com/user-attachments/assets/c416b533-6e81-4d81-83c1-6b1339431bde">
+<img width="1436" alt="AirFlow_monitoring" src="https://github.com/user-attachments/assets/f2f8b937-a615-4ece-9a7f-f71562df9246">
+
 
 ## Looker Dashboard Creation
 
