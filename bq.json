@@ -1,0 +1,23 @@
+{
+    "BigQuery Schema": [{
+      "name": "goals",
+      "type": "STRING"
+     },
+     {
+      "name": "name",
+      "type": "STRING"
+     },
+     {
+      "name": "teamName",
+      "type": "STRING"
+     },
+    {
+     "name": "assists",
+     "type": "STRING"
+    },
+    {
+     "name": "firstTeamAppearances",
+     "type": "STRING"
+    }
+    ]
+   }
